@@ -141,9 +141,9 @@ Dependencies (see `requirements.txt`):
 
 ## Contributors
 
-Yuvasri S - 
-Trisha P - 
-Tiwari Riya - 
+- [Yuvasri S](https://github.com/yuvasriselvam0107)
+- [Trisha P](https://github.com/23f1000097/)
+- [Tiwari Riya](https://github.com/tiwarii-riya)
 
 
 
